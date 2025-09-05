@@ -1,5 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import {type Options} from './quartz/components/Explorer';
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -8,11 +9,51 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      GitHub: "https://github.com/alaycock/quartz",
     },
   }),
 }
+
+const explorerOptions: Partial<Options> = {
+  folderClickBehavior: 'collapse',
+  sortFn: (a, b) => {
+    if (a.isFolder && b.isFolder) {
+      var ordering: Record<string, number> = { Posts: 0, Trips: 1, Lists: 2, Years: 3 };
+      return (ordering[a.displayName] ?? 999) - (ordering[b.displayName] ?? 999);
+    }
+
+    if ((!a.isFolder && !b.isFolder)) {
+      if (a.data?.date && b.data?.date) {
+        const aDate = new Date(a.data.date);
+        const bDate = new Date(b.data.date);
+        aDate.setHours(0,0,0,0);
+        bDate.setHours(0,0,0,0);
+        const difference = bDate.getTime() - aDate.getTime();
+        if (difference != 0) {
+          return b.data?.date.getTime() - a.data?.date.getTime();
+        }
+      }
+      
+      return a.displayName.localeCompare(b.displayName, undefined, {
+        numeric: true,
+        sensitivity: "base",
+      })
+    }
+ 
+    if (!a.isFolder && b.isFolder) {
+      return 1
+    } else {
+      return -1
+    }
+  },
+  filterFn: (node) => {
+    if (node.isFolder) {
+      return !['Routes'].includes(node.displayName);
+    }
+    return true;
+  },
+  order: ['sort', 'filter', 'map']
+};
 
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
@@ -22,8 +63,8 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
-    Component.ContentMeta(),
-    Component.TagList(),
+    Component.ContentMeta({ showReadingTime: false }),
+    // Component.TagList(),
   ],
   left: [
     Component.PageTitle(),
@@ -35,13 +76,13 @@ export const defaultContentPageLayout: PageLayout = {
           grow: true,
         },
         { Component: Component.Darkmode() },
-        { Component: Component.ReaderMode() },
+        // { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer(explorerOptions),
   ],
   right: [
-    Component.Graph(),
+    // Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
@@ -49,7 +90,7 @@ export const defaultContentPageLayout: PageLayout = {
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta({ showReadingTime: false })],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
@@ -62,7 +103,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer(explorerOptions),
   ],
   right: [],
 }

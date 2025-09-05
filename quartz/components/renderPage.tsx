@@ -27,7 +27,17 @@ export function pageResources(
   staticResources: StaticResources,
 ): StaticResources {
   const contentIndexPath = joinSegments(baseDir, "static/contentIndex.json")
-  const contentIndexScript = `const fetchData = fetch("${contentIndexPath}").then(data => data.json())`
+  const contentIndexScript = `
+    const fetchData = fetch("${contentIndexPath}")
+      .then(data => data.json())
+      .then(content => {
+        return Object.fromEntries(Object.entries(content)
+          .map(([key, file]) => {
+            file.date = file.date ? new Date(file.date) : file.date;
+            return [key, file];
+          }));
+      });
+    `
 
   const resources: StaticResources = {
     css: [

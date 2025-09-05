@@ -105,12 +105,14 @@ a {
     line-height: 1.4rem;
 
     &.broken {
-      color: var(--secondary);
-      opacity: 0.5;
+      color: var(--darkgray);
+      background-color: unset;
+      font-weight: unset;
+      // opacity: 0.5;
       transition: opacity 0.2s ease;
-      &:hover {
-        opacity: 0.8;
-      }
+      // &:hover {
+      //   opacity: 0.8;
+      // }
     }
 
     &:has(> img) {
@@ -553,7 +555,7 @@ td {
 }
 
 tr {
-  border-bottom: 1px solid var(--lightgray);
+  border-bottom: 1px solid var(--gray);
   &:last-child {
     border-bottom: none;
   }
