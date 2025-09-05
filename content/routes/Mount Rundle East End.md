@@ -3,7 +3,8 @@
 ---
 
 
-| file name  |    People     | Distance (km) | Elevation Gain (m) |
-| ---------- | ------------- | ------------- | ------------------ |
-| 2020-06-20 | Adam, Colton  |      5.6      |        877         |
-| 2024-03-30 | Adam, Francis |      6.4      |        865         |
+|          file name           |    People     | Distance (km) | Elevation Gain (m) |
+| ---------------------------- | ------------- | ------------- | ------------------ |
+|          2020-06-20          | Adam, Colton  |      5.6      |        877         |
+| 2022-07-16 - Rundle Traverse | Adam, Colton  |     21.4      |        2284        |
+|          2024-03-30          | Adam, Francis |      6.4      |        865         |
