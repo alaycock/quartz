@@ -13,11 +13,5 @@ I’m a software engineering who gets excited about maintainable code, pixel-per
 |       2021 Retrospective        | 2022-01-01 |
 |       Gap-Fable Traverse        | 2021-07-17 |
 | Three Sisters Pass via HIghline | 2021-07-09 |
-|              2020               |            |
-|              2021               |            |
-|              2022               |            |
-|              2023               |            |
-|              2024               |            |
-|              2025               |            |
 
 
