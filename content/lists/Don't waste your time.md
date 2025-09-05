@@ -1,151 +1,150 @@
 ---
-{"publish":true,"created":"2025-09-03T11:33:02.905-06:00","modified":"2025-09-03T13:42:30.127-06:00","published":"2025-09-03T13:42:30.127-06:00","tags":["list"],"cssclasses":""}
+{"publish":true,"created":"2025-09-03T11:33:02.905-06:00","modified":"2025-09-05T13:07:03.735-06:00","published":"2025-09-05T13:07:03.735-06:00","tags":["list"],"cssclasses":""}
 ---
 
-
-|                file name                | completed |      DWYT       |      region       |         location         |
-| --------------------------------------- | --------- | --------------- | ----------------- | ------------------------ |
-|        Bryant Creek Wonder Pass         |   false   |    Premiere     |    Assiniboine    | 50.8982839, -115.5190281 |
-|               Marvel Pass               |   false   |    Don’t do     |    Assiniboine    | 50.8425244, -115.5801915 |
-|   Mount Assiniboine via Citadel Pass    |   false   |    Premiere     |    Assiniboine    |                          |
-|                Nub Peak                 |   true    |    Premiere     |    Assiniboine    | 50.9306871, -115.6578675 |
-|               Aylmer Pass               |   false   |   Outstanding   |       Banff       | 51.317574, -115.4553513  |
-|                Boom Lake                |   true    |    Don’t do     |       Banff       |                          |
-|       Bourgeau Lake & Harvey Pass       |   true    |    Premiere     |       Banff       |                          |
-|                Bow River                |   true    | Shoulder season |       Banff       | 50.8586021, -113.9004857 |
-|             C-level Cirque              |   true    | Shoulder season |       Banff       | 51.2470836, -115.5333527 |
-|          Cascade Amphitheatre           |   true    |    Don’t do     |       Banff       | 51.2298772, -115.5845135 |
-|             Castle Lookout              |   true    | Shoulder season |       Banff       |                          |
-|              Citadel Pass               |   false   |    Premiere     |       Banff       | 51.1407075, -114.1795412 |
-|           Cory & Edith Passes           |   true    |   Worthwhile    |       Banff       |                          |
-|               Egypt Lake                |   true    |   Outstanding   |       Banff       |                          |
-|          Gibbon & Healy Passes          |   false   |    Premiere     |       Banff       |                          |
-|               Healy Pass                |   true    |   Outstanding   |       Banff       |  51.7213282, -9.756439   |
-|        Johnston Canyon & Inkpots        |   true    | Shoulder season |       Banff       |                          |
-|    Lake Minnewanka & Aylmer Lookout     |   true    | Shoulder season |       Banff       |                          |
-|              Mount Rundle               |   true    |    Don’t do     |       Banff       | 51.1245751, -115.4691932 |
-|             Rockbound Lake              |   true    |    Don’t do     |       Banff       | 49.8816175, -92.5344168  |
-|             Stanley Glacier             |   true    |   Outstanding   |       Banff       | 52.1467539, -117.9538822 |
-|       Sulphur Mountain Cosmic Ray       |   true    | Shoulder season |       Banff       | 51.1470726, -115.5785579 |
-|     Sulphur Mountain Gondola trail      |   true    | Shoulder season |       Banff       |                          |
-|               Sunset Pass               |   true    |   Outstanding   |       Banff       |                          |
-|      Taylor Lake + Panorama Ridge       |   false   |   Worthwhile    |       Banff       |                          |
-|             Tunnel Mountain             |   true    | Shoulder season |       Banff       | 51.1775391, -115.5537599 |
-|        Twin Lakes & Gibbon Pass         |   true    |   Worthwhile    |       Banff       |                          |
-|    Whistling Pass via Redearth Creek    |   false   |   Outstanding   |       Banff       |                          |
-|            Bow Glacier Falls            |   true    |   Worthwhile    | Icefields Parkway | 51.6528864, -116.4983904 |
-|         Bow Hut & Iceberg Lake          |   false   |   Outstanding   | Icefields Parkway |                          |
-|                Bow Peak                 |   true    |    Premiere     | Icefields Parkway | 51.6261243, -116.3783525 |
-|              Caldron Lake               |   false   |    Premiere     | Icefields Parkway | 52.6664717, -109.6152947 |
-|         Cirque & Chephren Lakes         |   false   |    Don’t do     | Icefields Parkway |                          |
-|        Helen Lake & Cirque Peak         |   false   |    Premiere     | Icefields Parkway |                          |
-|      Pipestone Pass + Devon Lakes       |   false   |    Premiere     | Icefields Parkway |                          |
-|     Siffleur River + Dolomite Creek     |   false   |    Don’t do     | Icefields Parkway |                          |
-|              Tangle Ridge               |   false   |    Premiere     | Icefields Parkway |    52.2983, -117.2867    |
-|     Amesthst Lakes & Surprise Point     |   false   |   Outstanding   |      Jasper       |                          |
-|             Cavell Meadows              |   false   |   Outstanding   |      Jasper       | 52.6790935, -118.0368097 |
-|              Indian Ridge               |   false   |   Worthwhile    |      Jasper       |                          |
-|         Jonas & Poboktan Passes         |   true    |   Outstanding   |      Jasper       |                          |
-|              Maligne Pass               |   false   |   Outstanding   |      Jasper       | 52.5096523, -117.4551264 |
-|        Mount Robson & Berg Lake         |   false   |    Premiere     |      Jasper       |                          |
-|               Nigel Pass                |   false   |   Outstanding   |      Jasper       | 52.2408347, -117.0927192 |
-|              Parker Ridge               |   true    |    Premiere     |      Jasper       |  52.18113, -117.0923294  |
-|             Sulphur Skyline             |   false   |   Worthwhile    |      Jasper       |                          |
-|               Sunset Peak               |   false   |   Outstanding   |      Jasper       |                          |
-|               The Skyline               |   true    |    Premiere     |      Jasper       |  51.5124984, -0.0435123  |
-|     Tonquin Valley & Astoria River      |   false   |   Outstanding   |      Jasper       |                          |
-|              Wabasso Lake               |   false   | Shoulder season |      Jasper       |                          |
-|               Wilcox Pass               |   false   |    Premiere     |      Jasper       | 52.254161, -117.2312304  |
-|          Floe Lake & Numa Pass          |   true    |   Outstanding   |     Kootenays     | 51.0544411, -116.136126  |
-|              The Rockwall               |   true    |   Outstanding   |     Kootenays     |                          |
-|              Tumbling Pass              |   true    |   Outstanding   |     Kootenays     | 51.1157281, -116.2167982 |
-|            Consolation Lakes            |   false   |   Worthwhile    |    Lake Louise    | 49.5053911, -122.6937221 |
-|              Devils Thumb               |   true    |   Outstanding   |    Lake Louise    | 51.4112041, -116.2525737 |
-|      Eiffel Lake + Wenkchemna Pass      |   false   |   Outstanding   |    Lake Louise    |                          |
-|               Eiffel Peak               |   true    |    Premiere     |    Lake Louise    | 51.3322882, -116.2359043 |
-|          Lake Agnes & Beehives          |   true    |    Don’t do     |    Lake Louise    |                          |
-|            Mount Saint Piran            |   true    |   Outstanding   |    Lake Louise    |                          |
-|          Plain of Six Glaciers          |   true    | Shoulder season |    Lake Louise    | 51.4081077, -116.2397726 |
-|        Saddleback & Fairview Mtn        |   true    |   Outstanding   |    Lake Louise    |                          |
-|              Sentinel Pass              |   true    |    Premiere     |    Lake Louise    | 50.2442446, -114.4868209 |
-|              Boulder Pass               |   true    |    Don’t do     |       Skoki       |                          |
-|       Skoki Lakes & Packers Peak        |   true    |   Outstanding   |       Skoki       |                          |
-|       Skoki Valley & Merlin Lake        |   true    |   Outstanding   |       Skoki       |                          |
-|              Akamina Ridge              |   true    |    Premiere     |     Waterton      |    49.0097, -114.1067    |
-|               Bears Hump                |   false   | Shoulder season |     Waterton      | 49.059535, -113.9133304  |
-|               Bertha Lake               |   true    |   Worthwhile    |     Waterton      |                          |
-|     Carthew Summit & Alderson Lake      |   false   |   Outstanding   |     Waterton      |                          |
-|               Crypt Lake                |   true    |   Outstanding   |     Waterton      | 49.0012187, -113.8407291 |
-|              Lineham Ridge              |   false   |    Premiere     |     Waterton      | 50.5127624, -114.7683454 |
-|                Vimy Peak                |   false   |    Don’t do     |     Waterton      |                          |
-|           Waterton Lakeshore            |   true    | Shoulder season |     Waterton      |                          |
-|                 Iceline                 |   true    |    Premiere     |       Yoho        |                          |
-|              Lake McArthur              |   true    |    Premiere     |       Yoho        | 51.3329644, -116.3407162 |
-|                Lake Oesa                |   true    |    Premiere     |       Yoho        | 51.3543276, -116.3040921 |
-|        Lake OHara Alpine Circuit        |   true    |    Premiere     |       Yoho        |                          |
-|     Little Yoho Valley & Whaleback      |   false   |   Worthwhile    |       Yoho        |                          |
-|          McArthur Creek Valley          |   false   |    Don’t do     |       Yoho        |   49.125, -117.1250896   |
-|              Niles Meadow               |   true    |    Premiere     |       Yoho        |                          |
-|            Odaray Grandview             |   false   |    Premiere     |       Yoho        | 51.3524852, -116.3647228 |
-|             Opabin Plateau              |   true    |    Premiere     |       Yoho        | 51.3412176, -116.3150261 |
-|               Wapta Falls               |   false   | Shoulder season |       Yoho        | 51.1873245, -116.5757917 |
-|               Yoho Valley               |   false   |    Don’t do     |       Yoho        | 51.505094, -116.4925069  |
-|            Yukness Mountain             |   false   |    Premiere     |       Yoho        | 51.3449093, -116.3049364 |
-|               Avion Ridge               |   false   |   Worthwhile    |                   |   49.1567, -114.11493    |
-|         Baker & Red Deer Lakes          |   false   |   Worthwhile    |                   |                          |
-|               Bald Hills                |   false   |   Outstanding   |                   |                          |
-|        Balfour Glacier Prospect         |   false   |    Premiere     |                   |                          |
-|              Beauty Creek               |   false   | Shoulder season |                   | 52.3137529, -117.2687169 |
-|              Beauty Lakes               |   false   |   Outstanding   |                   |                          |
-|             Blakiston Creek             |   false   |   Worthwhile    |                   | 49.1086583, -113.9880035 |
-|               Bow Lookout               |   false   |   Worthwhile    |                   |                          |
-|      Cabin & Saturday Night Lakes       |   false   |    Don’t do     |                   |                          |
-|               Campus Pass               |   false   |    Premiere     |                   | 52.6321453, -118.1350751 |
-|              Cataract Pass              |   false   |    Premiere     |                   | 52.2206126, -117.0267636 |
-|           Cathedral Prospect            |   false   |    Premiere     |                   |                          |
-|                Dog Lake                 |   false   | Shoulder season |                   |                          |
-|                Elk Lake                 |   false   |    Don’t do     |                   |                          |
-|              Elysium Pass               |   false   |   Worthwhile    |                   | 52.9533484, -118.3379179 |
-|              Emerald Basin              |   false   |    Don’t do     |                   |                          |
-|              Emerald River              |   false   |    Don’t do     |                   | 51.4040635, -116.5494667 |
-|            Emerald Triangle             |   false   |   Worthwhile    |                   |                          |
-|             Eremite Valley              |   false   |   Outstanding   |                   |                          |
-|               Ferro Pass                |   false   |    Don’t do     |                   | 50.9318879, -115.7255208 |
-|            Fitzwilliam Basin            |   false   |   Worthwhile    |                   |                          |
-|              Fryatt Valley              |   false   |    Don’t do     |                   | 52.5114526, -117.8759775 |
-|             Geraldine Lakes             |   false   |   Worthwhile    |                   | 52.5704133, -117.9485427 |
-|              Glacier Lake               |   false   | Shoulder season |                   | 51.9203439, -116.8635781 |
-|                Goat Lake                |   false   |   Worthwhile    |                   |                          |
-|       Hamilton Lake & Emerald Col       |   false   |   Worthwhile    |                   |                          |
-|     Hargreaves Glacier & Mumm Basin     |   false   |    Premiere     |                   |                          |
-|         Hawk Creek & Ball Pass          |   false   |   Outstanding   |                   |                          |
-|          Heart of the Skyline           |   false   |   Outstanding   |                   |                          |
-|       Heart of the South Boundary       |   false   |   Outstanding   |                   |                          |
-|             Hunter Lookout              |   false   |    Don’t do     |                   |                          |
-|              Juniper Loop               |   false   | Shoulder season |                   |                          |
-|         Kindersley-Sinclair Col         |   false   |   Outstanding   |                   |                          |
-|      Lake Annette Paradise Valley       |   false   |   Outstanding   |                   | 51.3922007, -116.1752623 |
-|           Lineham Creek Falls           |   false   | Shoulder season |                   | 49.0780106, -114.0551873 |
-|     Maccarib Pass & Tonquin Valley      |   false   |   Outstanding   |                   |                          |
-|               Molar Pass                |   false   |   Outstanding   |                   | 51.629219, -116.2565396  |
-| Molar Passes Fish Lakes & Triple Bypass |   false   |   Outstanding   |                   |                          |
-|               Moose Pass                |   false   |   Worthwhile    |                   |                          |
-|           Mystic Pass & Lake            |   false   |   Worthwhile    |                   |                          |
-|               Opal Hills                |   false   |   Outstanding   |                   |                          |
-|          Paget Lookout & Peak           |   false   |   Worthwhile    |                   |                          |
-|             Pipestone River             |   false   |    Don’t do     |                   |  52.2987957, -90.581128  |
-|              Portal Creek               |   false   | Shoulder season |                   | 52.7924806, -118.053236  |
-|           Prospectors Valley            |   false   |    Don’t do     |                   | 51.252028, -116.2181695  |
-|       Pulsatilla & Badger Passes        |   false   |   Worthwhile    |                   |  50.8497299, 19.1028644  |
-|        Rock Isle & Grizzly Lakes        |   false   |   Worthwhile    |                   |                          |
-|             Sarbach Lookout             |   false   |    Don’t do     |                   |                          |
-|              Simpson River              |   false   |    Don’t do     |                   | 50.9830321, -115.8208254 |
-|              Snowbird Pass              |   false   |    Premiere     |                   | 53.1450628, -119.0492048 |
-|         Summit & Jacques Lakes          |   false   | Shoulder season |                   |                          |
-|             Tamarack Trail              |   false   |   Worthwhile    |                   |                          |
-|              The Whistlers              |   false   |    Don’t do     |                   | 52.8269909, -118.133126  |
-|              Tonquin Hill               |   false   |   Outstanding   |                   |    52.7378, -118.3272    |
-|          Valley of Five Lakes           |   false   |    Don’t do     |                   | 52.8080506, -118.0222091 |
-|              Verdant Pass               |   false   |    Premiere     |                   | 52.6454706, -118.0850955 |
-|            Watchtower Basin             |   false   |    Don’t do     |                   |                          |
-|               Windy Ridge               |   false   |    Premiere     |                   | 49.1077263, -117.0067393 |
+|                    Trip                     |      DWYT       |      Region       | Completed |
+| ------------------------------------------- | --------------- | ----------------- | --------- |
+|        [[routes/Bryant Creek Wonder Pass]]         |    Premiere     |    Assiniboine    |   false   |
+|               [[routes/Marvel Pass]]               |    Don’t do     |    Assiniboine    |   false   |
+|   [[routes/Mount Assiniboine via Citadel Pass]]    |    Premiere     |    Assiniboine    |   false   |
+|                [[routes/Nub Peak]]                 |    Premiere     |    Assiniboine    |   true    |
+|               [[routes/Aylmer Pass]]               |   Outstanding   |       Banff       |   false   |
+|                [[routes/Boom Lake]]                |    Don’t do     |       Banff       |   true    |
+|       [[routes/Bourgeau Lake & Harvey Pass]]       |    Premiere     |       Banff       |   true    |
+|                [[routes/Bow River]]                | Shoulder season |       Banff       |   true    |
+|             [[routes/C-level Cirque]]              | Shoulder season |       Banff       |   true    |
+|          [[routes/Cascade Amphitheatre]]           |    Don’t do     |       Banff       |   true    |
+|             [[routes/Castle Lookout]]              | Shoulder season |       Banff       |   true    |
+|              [[routes/Citadel Pass]]               |    Premiere     |       Banff       |   false   |
+|           [[routes/Cory & Edith Passes]]           |   Worthwhile    |       Banff       |   true    |
+|               [[routes/Egypt Lake]]                |   Outstanding   |       Banff       |   true    |
+|          [[routes/Gibbon & Healy Passes]]          |    Premiere     |       Banff       |   false   |
+|               [[routes/Healy Pass]]                |   Outstanding   |       Banff       |   true    |
+|        [[routes/Johnston Canyon & Inkpots]]        | Shoulder season |       Banff       |   true    |
+|    [[routes/Lake Minnewanka & Aylmer Lookout]]     | Shoulder season |       Banff       |   true    |
+|              [[routes/Mount Rundle]]               |    Don’t do     |       Banff       |   true    |
+|             [[routes/Rockbound Lake]]              |    Don’t do     |       Banff       |   true    |
+|             [[routes/Stanley Glacier]]             |   Outstanding   |       Banff       |   true    |
+|       [[routes/Sulphur Mountain Cosmic Ray]]       | Shoulder season |       Banff       |   true    |
+|     [[routes/Sulphur Mountain Gondola trail]]      | Shoulder season |       Banff       |   true    |
+|               [[routes/Sunset Pass]]               |   Outstanding   |       Banff       |   true    |
+|      [[routes/Taylor Lake + Panorama Ridge]]       |   Worthwhile    |       Banff       |   false   |
+|             [[routes/Tunnel Mountain]]             | Shoulder season |       Banff       |   true    |
+|        [[routes/Twin Lakes & Gibbon Pass]]         |   Worthwhile    |       Banff       |   true    |
+|    [[routes/Whistling Pass via Redearth Creek]]    |   Outstanding   |       Banff       |   false   |
+|            [[routes/Bow Glacier Falls]]            |   Worthwhile    | Icefields Parkway |   true    |
+|         [[routes/Bow Hut & Iceberg Lake]]          |   Outstanding   | Icefields Parkway |   false   |
+|                [[routes/Bow Peak]]                 |    Premiere     | Icefields Parkway |   true    |
+|              [[routes/Caldron Lake]]               |    Premiere     | Icefields Parkway |   false   |
+|         [[routes/Cirque & Chephren Lakes]]         |    Don’t do     | Icefields Parkway |   false   |
+|        [[routes/Helen Lake & Cirque Peak]]         |    Premiere     | Icefields Parkway |   false   |
+|      [[routes/Pipestone Pass + Devon Lakes]]       |    Premiere     | Icefields Parkway |   false   |
+|     [[routes/Siffleur River + Dolomite Creek]]     |    Don’t do     | Icefields Parkway |   false   |
+|              [[routes/Tangle Ridge]]               |    Premiere     | Icefields Parkway |   false   |
+|     [[routes/Amesthst Lakes & Surprise Point]]     |   Outstanding   |      Jasper       |   false   |
+|             [[routes/Cavell Meadows]]              |   Outstanding   |      Jasper       |   false   |
+|              [[routes/Indian Ridge]]               |   Worthwhile    |      Jasper       |   false   |
+|         [[routes/Jonas & Poboktan Passes]]         |   Outstanding   |      Jasper       |   true    |
+|              [[routes/Maligne Pass]]               |   Outstanding   |      Jasper       |   false   |
+|        [[routes/Mount Robson & Berg Lake]]         |    Premiere     |      Jasper       |   false   |
+|               [[routes/Nigel Pass]]                |   Outstanding   |      Jasper       |   false   |
+|              [[routes/Parker Ridge]]               |    Premiere     |      Jasper       |   true    |
+|             [[routes/Sulphur Skyline]]             |   Worthwhile    |      Jasper       |   false   |
+|               [[routes/Sunset Peak]]               |   Outstanding   |      Jasper       |   false   |
+|               [[routes/The Skyline]]               |    Premiere     |      Jasper       |   true    |
+|     [[routes/Tonquin Valley & Astoria River]]      |   Outstanding   |      Jasper       |   false   |
+|              [[routes/Wabasso Lake]]               | Shoulder season |      Jasper       |   false   |
+|               [[routes/Wilcox Pass]]               |    Premiere     |      Jasper       |   false   |
+|          [[routes/Floe Lake & Numa Pass]]          |   Outstanding   |     Kootenays     |   true    |
+|              [[routes/The Rockwall]]               |   Outstanding   |     Kootenays     |   true    |
+|              [[routes/Tumbling Pass]]              |   Outstanding   |     Kootenays     |   true    |
+|            [[routes/Consolation Lakes]]            |   Worthwhile    |    Lake Louise    |   false   |
+|              [[routes/Devils Thumb]]               |   Outstanding   |    Lake Louise    |   true    |
+|      [[routes/Eiffel Lake + Wenkchemna Pass]]      |   Outstanding   |    Lake Louise    |   false   |
+|               [[routes/Eiffel Peak]]               |    Premiere     |    Lake Louise    |   true    |
+|          [[routes/Lake Agnes & Beehives]]          |    Don’t do     |    Lake Louise    |   true    |
+|            [[routes/Mount Saint Piran]]            |   Outstanding   |    Lake Louise    |   true    |
+|          [[routes/Plain of Six Glaciers]]          | Shoulder season |    Lake Louise    |   true    |
+|        [[routes/Saddleback & Fairview Mtn]]        |   Outstanding   |    Lake Louise    |   true    |
+|              [[routes/Sentinel Pass]]              |    Premiere     |    Lake Louise    |   true    |
+|              [[routes/Boulder Pass]]               |    Don’t do     |       Skoki       |   true    |
+|       [[routes/Skoki Lakes & Packers Peak]]        |   Outstanding   |       Skoki       |   true    |
+|       [[routes/Skoki Valley & Merlin Lake]]        |   Outstanding   |       Skoki       |   true    |
+|              [[routes/Akamina Ridge]]              |    Premiere     |     Waterton      |   true    |
+|               [[routes/Bears Hump]]                | Shoulder season |     Waterton      |   false   |
+|               [[routes/Bertha Lake]]               |   Worthwhile    |     Waterton      |   true    |
+|     [[routes/Carthew Summit & Alderson Lake]]      |   Outstanding   |     Waterton      |   false   |
+|               [[routes/Crypt Lake]]                |   Outstanding   |     Waterton      |   true    |
+|              [[routes/Lineham Ridge]]              |    Premiere     |     Waterton      |   false   |
+|                [[routes/Vimy Peak]]                |    Don’t do     |     Waterton      |   false   |
+|           [[routes/Waterton Lakeshore]]            | Shoulder season |     Waterton      |   true    |
+|                 [[routes/Iceline]]                 |    Premiere     |       Yoho        |   true    |
+|              [[routes/Lake McArthur]]              |    Premiere     |       Yoho        |   true    |
+|                [[routes/Lake Oesa]]                |    Premiere     |       Yoho        |   true    |
+|        [[routes/Lake OHara Alpine Circuit]]        |    Premiere     |       Yoho        |   true    |
+|     [[routes/Little Yoho Valley & Whaleback]]      |   Worthwhile    |       Yoho        |   false   |
+|          [[routes/McArthur Creek Valley]]          |    Don’t do     |       Yoho        |   false   |
+|              [[routes/Niles Meadow]]               |    Premiere     |       Yoho        |   true    |
+|            [[routes/Odaray Grandview]]             |    Premiere     |       Yoho        |   false   |
+|             [[routes/Opabin Plateau]]              |    Premiere     |       Yoho        |   true    |
+|               [[routes/Wapta Falls]]               | Shoulder season |       Yoho        |   false   |
+|               [[routes/Yoho Valley]]               |    Don’t do     |       Yoho        |   false   |
+|            [[routes/Yukness Mountain]]             |    Premiere     |       Yoho        |   false   |
+|               [[routes/Avion Ridge]]               |   Worthwhile    |                   |   false   |
+|         [[routes/Baker & Red Deer Lakes]]          |   Worthwhile    |                   |   false   |
+|               [[routes/Bald Hills]]                |   Outstanding   |                   |   false   |
+|        [[routes/Balfour Glacier Prospect]]         |    Premiere     |                   |   false   |
+|              [[routes/Beauty Creek]]               | Shoulder season |                   |   false   |
+|              [[routes/Beauty Lakes]]               |   Outstanding   |                   |   false   |
+|             [[routes/Blakiston Creek]]             |   Worthwhile    |                   |   false   |
+|               [[routes/Bow Lookout]]               |   Worthwhile    |                   |   false   |
+|      [[routes/Cabin & Saturday Night Lakes]]       |    Don’t do     |                   |   false   |
+|               [[routes/Campus Pass]]               |    Premiere     |                   |   false   |
+|              [[routes/Cataract Pass]]              |    Premiere     |                   |   false   |
+|           [[routes/Cathedral Prospect]]            |    Premiere     |                   |   false   |
+|                [[routes/Dog Lake]]                 | Shoulder season |                   |   false   |
+|                [[routes/Elk Lake]]                 |    Don’t do     |                   |   false   |
+|              [[routes/Elysium Pass]]               |   Worthwhile    |                   |   false   |
+|              [[routes/Emerald Basin]]              |    Don’t do     |                   |   false   |
+|              [[routes/Emerald River]]              |    Don’t do     |                   |   false   |
+|            [[routes/Emerald Triangle]]             |   Worthwhile    |                   |   false   |
+|             [[routes/Eremite Valley]]              |   Outstanding   |                   |   false   |
+|               [[routes/Ferro Pass]]                |    Don’t do     |                   |   false   |
+|            [[routes/Fitzwilliam Basin]]            |   Worthwhile    |                   |   false   |
+|              [[routes/Fryatt Valley]]              |    Don’t do     |                   |   false   |
+|             [[routes/Geraldine Lakes]]             |   Worthwhile    |                   |   false   |
+|              [[routes/Glacier Lake]]               | Shoulder season |                   |   false   |
+|                [[routes/Goat Lake]]                |   Worthwhile    |                   |   false   |
+|       [[routes/Hamilton Lake & Emerald Col]]       |   Worthwhile    |                   |   false   |
+|     [[routes/Hargreaves Glacier & Mumm Basin]]     |    Premiere     |                   |   false   |
+|         [[routes/Hawk Creek & Ball Pass]]          |   Outstanding   |                   |   false   |
+|          [[routes/Heart of the Skyline]]           |   Outstanding   |                   |   false   |
+|       [[routes/Heart of the South Boundary]]       |   Outstanding   |                   |   false   |
+|             [[routes/Hunter Lookout]]              |    Don’t do     |                   |   false   |
+|              [[routes/Juniper Loop]]               | Shoulder season |                   |   false   |
+|         [[routes/Kindersley-Sinclair Col]]         |   Outstanding   |                   |   false   |
+|      [[routes/Lake Annette Paradise Valley]]       |   Outstanding   |                   |   false   |
+|           [[routes/Lineham Creek Falls]]           | Shoulder season |                   |   false   |
+|     [[routes/Maccarib Pass & Tonquin Valley]]      |   Outstanding   |                   |   false   |
+|               [[routes/Molar Pass]]                |   Outstanding   |                   |   false   |
+| [[routes/Molar Passes Fish Lakes & Triple Bypass]] |   Outstanding   |                   |   false   |
+|               [[routes/Moose Pass]]                |   Worthwhile    |                   |   false   |
+|           [[routes/Mystic Pass & Lake]]            |   Worthwhile    |                   |   false   |
+|               [[routes/Opal Hills]]                |   Outstanding   |                   |   false   |
+|          [[routes/Paget Lookout & Peak]]           |   Worthwhile    |                   |   false   |
+|             [[routes/Pipestone River]]             |    Don’t do     |                   |   false   |
+|              [[routes/Portal Creek]]               | Shoulder season |                   |   false   |
+|           [[routes/Prospectors Valley]]            |    Don’t do     |                   |   false   |
+|       [[routes/Pulsatilla & Badger Passes]]        |   Worthwhile    |                   |   false   |
+|        [[routes/Rock Isle & Grizzly Lakes]]        |   Worthwhile    |                   |   false   |
+|             [[routes/Sarbach Lookout]]             |    Don’t do     |                   |   false   |
+|              [[routes/Simpson River]]              |    Don’t do     |                   |   false   |
+|              [[routes/Snowbird Pass]]              |    Premiere     |                   |   false   |
+|         [[routes/Summit & Jacques Lakes]]          | Shoulder season |                   |   false   |
+|             [[routes/Tamarack Trail]]              |   Worthwhile    |                   |   false   |
+|              [[routes/The Whistlers]]              |    Don’t do     |                   |   false   |
+|              [[routes/Tonquin Hill]]               |   Outstanding   |                   |   false   |
+|          [[routes/Valley of Five Lakes]]           |    Don’t do     |                   |   false   |
+|              [[routes/Verdant Pass]]               |    Premiere     |                   |   false   |
+|            [[routes/Watchtower Basin]]             |    Don’t do     |                   |   false   |
+|               [[routes/Windy Ridge]]               |    Premiere     |                   |   false   |
